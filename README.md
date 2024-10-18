@@ -1,8 +1,7 @@
 # codsoft-intern
-CodSoft Internship Experience: Python Programming    Overview: I recently completed an internship at CodSoft, where I had the incredible opportunity to dive deep into Python programming.  
-CodSoft Internship Experience: Python Programming   
-I recently completed an internship at CodSoft, where I had the incredible opportunity to dive deep into Python programming. As a student pursuing a degree in Computer Science, this experience was pivotal for both my technical skills and my understanding of real-world software development.  
-Skills Developed:
- -Technical Proficiency
- -Collaboration
- -Adaptability
+Python Programming Intern at CodSoft Company
+As a self-driven student, I took the initiative to complete an internship on my own with CodSoft, diving deep into the world of Python programming. This experience allowed me to explore real-world applications of Python, all while working independently and managing my own projects, which was both challenging and rewarding.
+Key Skills Developed During the Internship:
+-Python Development
+-Problem-Solving and Debugging
+-Adaptability 
